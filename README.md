@@ -1,6 +1,9 @@
 # Neural Network
 
+We attempted to  our knowledge of machine learning and neural network model to create a classifier that is capable of predicting whether or not charity will be successful if funded by Alphabet Soup. The model used the charity dataset. The software language used were Python 3.7, Scikit-Learn, and the Tensorflow platform. Please refer to the notebook 
+__Neural_Networks_Alphabet_Soup_Challenge.ipynb__.
 
+Here are the major findings and activities:
 
 __✓ How many neurons and layers did you select for your neural network model?__
 
